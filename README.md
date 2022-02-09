@@ -92,7 +92,11 @@ else:
     print("Element not found")
 ```
 ## Sample Input and Output
+![8m-out1](https://user-images.githubusercontent.com/94228215/153199946-114db6bd-f3d3-4a20-8fce-016f0a298fce.png)
 
+![8m-out2](https://user-images.githubusercontent.com/94228215/153200037-ea0b378e-e707-4768-be02-3e792f8dc064.png)
+
+![8m-out3](https://user-images.githubusercontent.com/94228215/153200065-058782fa-af95-438f-827f-0a9c7ceb0236.png)
 
 
 
